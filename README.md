@@ -1,5 +1,7 @@
 # Challenge Amigo Secreto
 
+![Print do site Amigo Secreto](assets/Captura%20do%20site.png)
+
 Este projeto simples de amigo secreto foi desenvolvido em HTML, CSS e JavaScript.
 
 ## Objetivo
@@ -17,7 +19,7 @@ O jogo é muito divertido para interagir entre grupos de amigos.
 5. **Clique em "Sortear Amigo" para realizar o sorteio.**
 6. **O nome sorteado será exibido na tela.**
 7. **Ou se prefirir, acesse o site já publicado:**
-   - [Ver site no deploy](https://SEU-LINK-DE-DEPLOY-AQUI)
+   - [Ver site no deploy](https://ismaelblog.github.io/challenge-amigo-secreto/)
 
 ## Estrutura do Projeto
 
